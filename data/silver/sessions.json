@@ -1,0 +1,196 @@
+[
+  {
+    "id": "z2-45",
+    "type": "zone2",
+    "duration_min": 45,
+    "target_pace_s_per_km": 344.3,
+    "structure": [
+      [
+        "steady",
+        45
+      ]
+    ],
+    "treadmill_ok": true
+  },
+  {
+    "id": "recovery-30",
+    "type": "recovery",
+    "duration_min": 30,
+    "target_pace_s_per_km": 361.5,
+    "structure": [
+      [
+        "steady",
+        30
+      ]
+    ],
+    "treadmill_ok": true
+  },
+  {
+    "id": "tempo-3x10",
+    "type": "tempo",
+    "duration_min": 50,
+    "target_pace_s_per_km": 258.2,
+    "structure": [
+      [
+        "warmup",
+        10
+      ],
+      [
+        "tempo",
+        10
+      ],
+      [
+        "easy",
+        5
+      ],
+      [
+        "tempo",
+        10
+      ],
+      [
+        "easy",
+        5
+      ],
+      [
+        "tempo",
+        10
+      ]
+    ],
+    "treadmill_ok": true
+  },
+  {
+    "id": "thresh-4x6",
+    "type": "threshold",
+    "duration_min": 55,
+    "target_pace_s_per_km": 243.9,
+    "structure": [
+      [
+        "warmup",
+        10
+      ],
+      [
+        "threshold",
+        6
+      ],
+      [
+        "easy",
+        3
+      ],
+      [
+        "warmup",
+        10
+      ],
+      [
+        "threshold",
+        6
+      ],
+      [
+        "easy",
+        3
+      ],
+      [
+        "warmup",
+        10
+      ],
+      [
+        "threshold",
+        6
+      ],
+      [
+        "easy",
+        3
+      ],
+      [
+        "warmup",
+        10
+      ],
+      [
+        "threshold",
+        6
+      ],
+      [
+        "easy",
+        3
+      ]
+    ],
+    "treadmill_ok": true
+  },
+  {
+    "id": "vo2-6x3",
+    "type": "vo2max",
+    "duration_min": 50,
+    "target_pace_s_per_km": 215.2,
+    "structure": [
+      [
+        "warmup",
+        12
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "vo2",
+        3
+      ],
+      [
+        "easy",
+        2
+      ],
+      [
+        "cooldown",
+        5
+      ]
+    ],
+    "treadmill_ok": true
+  },
+  {
+    "id": "long-90",
+    "type": "long_run",
+    "duration_min": 90,
+    "target_pace_s_per_km": 351.2,
+    "structure": [
+      [
+        "steady",
+        90
+      ]
+    ],
+    "treadmill_ok": false
+  }
+]
