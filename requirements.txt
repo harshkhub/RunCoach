@@ -1,0 +1,22 @@
+# data
+pandas
+pyarrow
+polars
+numpy
+
+# parsing 
+fitparse
+garmin-fit-sdk
+
+# ML / LLM tooling
+datasets
+transformers
+peft
+trl
+bitsandbytes
+
+# utils
+pydantic
+typer
+orjson
+jsonschema
